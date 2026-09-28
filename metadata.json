@@ -1,0 +1,7 @@
+{
+  "name": "PixCraft Pro",
+  "description": "Professional photo, poster, and text editor with canvas layers, shapes, drawing, stickers, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
